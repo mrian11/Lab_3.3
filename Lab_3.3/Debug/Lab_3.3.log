@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Користувач\source\repos\Lab_3.3\Lab_3.3\Source.cpp(22,10): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Користувач\source\repos\Lab_3.3\Lab_3.3\Source.cpp(25,10): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Користувач\source\repos\Lab_3.3\Lab_3.3\Source.cpp(28,15): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Користувач\source\repos\Lab_3.3\Lab_3.3\Source.cpp(31,12): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Lab_3.3.vcxproj -> C:\Users\Користувач\source\repos\Lab_3.3\Debug\Lab_3.3.exe
